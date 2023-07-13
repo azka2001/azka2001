@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azka2001" alt="azka2001" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science and Flutter.**
+- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **azkaah2001@gmail.com**
 
